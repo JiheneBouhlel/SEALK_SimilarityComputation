@@ -1,0 +1,6 @@
+[{"name": "Spotify","topics": ["music", "streaming media", "mobile app"]},
+ {"name": "Deezer","topics": ["music", "mobile app", "playlist"]},
+ {"name": "Nike","topics": ["clothing", "footwear", "brand"]},
+ {"name": "Nike France","topics": ["clothing", "footwear", "sport"]},
+ {"name": "Adidas","topics": ["footwear", "sport", "brand"]},
+ {"name": "Uber","topics": ["mobile app", "carsharing", "carpool"]}]
