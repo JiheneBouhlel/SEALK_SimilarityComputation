@@ -1,4 +1,4 @@
-# SEALK_SimilarityComputation
+# SimilarityComputation
 ## Additional Questions
 
 ### 1. What would you change if the list of companies was much larger (several millions) ?
